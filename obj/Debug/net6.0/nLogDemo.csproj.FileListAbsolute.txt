@@ -13,3 +13,7 @@
 /Users/jackhoward/Library/CloudStorage/OneDrive-WaukeshaCountyTechnicalCollege/Spring 22/netDatabase/Mod4/nLogDemo/obj/Debug/net6.0/nLogDemo.pdb
 /Users/jackhoward/Library/CloudStorage/OneDrive-WaukeshaCountyTechnicalCollege/Spring 22/netDatabase/Mod4/nLogDemo/obj/Debug/net6.0/nLogDemo.genruntimeconfig.cache
 /Users/jackhoward/Library/CloudStorage/OneDrive-WaukeshaCountyTechnicalCollege/Spring 22/netDatabase/Mod4/nLogDemo/obj/Debug/net6.0/ref/nLogDemo.dll
+/Users/jackhoward/Library/CloudStorage/OneDrive-WaukeshaCountyTechnicalCollege/Spring 22/netDatabase/Mod4/nLogDemo/bin/Debug/net6.0/NLog.dll
+/Users/jackhoward/Library/CloudStorage/OneDrive-WaukeshaCountyTechnicalCollege/Spring 22/netDatabase/Mod4/nLogDemo/bin/Debug/net6.0/NLog.Extensions.Logging.dll
+/Users/jackhoward/Library/CloudStorage/OneDrive-WaukeshaCountyTechnicalCollege/Spring 22/netDatabase/Mod4/nLogDemo/bin/Debug/net6.0/NLog.Web.AspNetCore.dll
+/Users/jackhoward/Library/CloudStorage/OneDrive-WaukeshaCountyTechnicalCollege/Spring 22/netDatabase/Mod4/nLogDemo/obj/Debug/net6.0/nLogDemo.csproj.CopyComplete

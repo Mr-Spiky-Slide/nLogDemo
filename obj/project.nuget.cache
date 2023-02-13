@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "QRdi8lJOPvRC18CuKq4O0qkz25SwLaXg3UiNPDU73Wb7jZ++FyDM9FgoTtRe/ZqYdYP2xd3Ke1qVGHo88hpv1g==",
+  "dgSpecHash": "IQtwOvLjXkR5zbYXt6/nqmHnup0t+AC363Xp1kk5t4MU1d7LecgVXOftxz4Isv9/UY+89c1JEG10mGoOuictcw==",
   "success": true,
   "projectFilePath": "/Users/jackhoward/Library/CloudStorage/OneDrive-WaukeshaCountyTechnicalCollege/Spring 22/netDatabase/Mod4/nLogDemo/nLogDemo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/jackhoward/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "/Users/jackhoward/.nuget/packages/microsoft.extensions.dependencyinjection/6.0.0/microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "/Users/jackhoward/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "/Users/jackhoward/.nuget/packages/microsoft.extensions.logging/6.0.0/microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "/Users/jackhoward/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/jackhoward/.nuget/packages/microsoft.extensions.options/6.0.0/microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "/Users/jackhoward/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/jackhoward/.nuget/packages/nlog/5.1.1/nlog.5.1.1.nupkg.sha512",
+    "/Users/jackhoward/.nuget/packages/nlog.extensions.logging/5.2.1/nlog.extensions.logging.5.2.1.nupkg.sha512",
+    "/Users/jackhoward/.nuget/packages/nlog.web.aspnetcore/5.2.1/nlog.web.aspnetcore.5.2.1.nupkg.sha512",
+    "/Users/jackhoward/.nuget/packages/system.diagnostics.diagnosticsource/6.0.0/system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "/Users/jackhoward/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
