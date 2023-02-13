@@ -1,0 +1,15 @@
+/Users/jackhoward/Library/CloudStorage/OneDrive-WaukeshaCountyTechnicalCollege/Spring 22/netDatabase/Mod4/nLogDemo/bin/Debug/net6.0/nLogDemo
+/Users/jackhoward/Library/CloudStorage/OneDrive-WaukeshaCountyTechnicalCollege/Spring 22/netDatabase/Mod4/nLogDemo/bin/Debug/net6.0/nLogDemo.deps.json
+/Users/jackhoward/Library/CloudStorage/OneDrive-WaukeshaCountyTechnicalCollege/Spring 22/netDatabase/Mod4/nLogDemo/bin/Debug/net6.0/nLogDemo.runtimeconfig.json
+/Users/jackhoward/Library/CloudStorage/OneDrive-WaukeshaCountyTechnicalCollege/Spring 22/netDatabase/Mod4/nLogDemo/bin/Debug/net6.0/nLogDemo.dll
+/Users/jackhoward/Library/CloudStorage/OneDrive-WaukeshaCountyTechnicalCollege/Spring 22/netDatabase/Mod4/nLogDemo/bin/Debug/net6.0/nLogDemo.pdb
+/Users/jackhoward/Library/CloudStorage/OneDrive-WaukeshaCountyTechnicalCollege/Spring 22/netDatabase/Mod4/nLogDemo/obj/Debug/net6.0/nLogDemo.csproj.AssemblyReference.cache
+/Users/jackhoward/Library/CloudStorage/OneDrive-WaukeshaCountyTechnicalCollege/Spring 22/netDatabase/Mod4/nLogDemo/obj/Debug/net6.0/nLogDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jackhoward/Library/CloudStorage/OneDrive-WaukeshaCountyTechnicalCollege/Spring 22/netDatabase/Mod4/nLogDemo/obj/Debug/net6.0/nLogDemo.AssemblyInfoInputs.cache
+/Users/jackhoward/Library/CloudStorage/OneDrive-WaukeshaCountyTechnicalCollege/Spring 22/netDatabase/Mod4/nLogDemo/obj/Debug/net6.0/nLogDemo.AssemblyInfo.cs
+/Users/jackhoward/Library/CloudStorage/OneDrive-WaukeshaCountyTechnicalCollege/Spring 22/netDatabase/Mod4/nLogDemo/obj/Debug/net6.0/nLogDemo.csproj.CoreCompileInputs.cache
+/Users/jackhoward/Library/CloudStorage/OneDrive-WaukeshaCountyTechnicalCollege/Spring 22/netDatabase/Mod4/nLogDemo/obj/Debug/net6.0/nLogDemo.dll
+/Users/jackhoward/Library/CloudStorage/OneDrive-WaukeshaCountyTechnicalCollege/Spring 22/netDatabase/Mod4/nLogDemo/obj/Debug/net6.0/refint/nLogDemo.dll
+/Users/jackhoward/Library/CloudStorage/OneDrive-WaukeshaCountyTechnicalCollege/Spring 22/netDatabase/Mod4/nLogDemo/obj/Debug/net6.0/nLogDemo.pdb
+/Users/jackhoward/Library/CloudStorage/OneDrive-WaukeshaCountyTechnicalCollege/Spring 22/netDatabase/Mod4/nLogDemo/obj/Debug/net6.0/nLogDemo.genruntimeconfig.cache
+/Users/jackhoward/Library/CloudStorage/OneDrive-WaukeshaCountyTechnicalCollege/Spring 22/netDatabase/Mod4/nLogDemo/obj/Debug/net6.0/ref/nLogDemo.dll
